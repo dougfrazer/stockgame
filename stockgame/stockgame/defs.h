@@ -14,3 +14,4 @@ struct StockDay {
 	float volume;
 };
 typedef std::vector<StockDay> StockHistory;
+
